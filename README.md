@@ -1,5 +1,5 @@
 # FFT-Analyzer
-Python Program that utilizes the Numpy FFT library to identify individual frequency power levels from any sound data leaving a computer without using a microphone
+Python Program that utilizes the Numpy FFT library to identify individual frequency power levels from any sound data leaving a computer without using a microphone.
 
 
 In order to run FFT_Analyzer.py you will need to follow a few steps:
